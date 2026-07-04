@@ -1,0 +1,9 @@
+# Objetos compilados
+*.o
+
+# Ejecutable final del proyecto
+ent
+
+# Configuración de entornos de desarrollo
+.vscode/
+.idea/
